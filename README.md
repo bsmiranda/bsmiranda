@@ -2,7 +2,7 @@
 
 I'm a [Computer Science](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/) student with a strong interest in **Data Science** and how this field can impact business around the world.
 
-I'm currently focusing my studies on [Alura Data Science training](https://www.alura.com.br/escola-data-science), where I learn about **Python para Data Science**, **Power BI**, **SQL**, **Machine Learning**, **Data Modeling** and many other courses that the Alura platform offers in the areas of Programming, DevOps, Inovation and Management.
+I'm currently focusing my studies on [Alura Data Science training](https://www.alura.com.br/escola-data-science), where I learn about **Python para Data Science**, **Power BI**, **SQL**, **Machine Learning**, **Data Modeling** and many other courses that the Alura platform offers in the areas of Programming, DevOps, Innovation and Management.
 
 In 2023 I started studying [Data Science at EBAC](https://ebaconline.com.br/cientista-de-dados), a course aimed at developing statistical models, solving problems and expanding business strategies based on **Machine Learning** and **Big Data** algorithms. It is a practical course with activities and mentoring over ten months developing Data Science projects.
 
