@@ -9,7 +9,7 @@ I also have a strong interest in healthcare, business and financial markets and 
 
 At the moment I'm looking for my first opportunity in a company to work with Data Science. 🙂
 
-- I’m currently working on Financial Market data analysis projects.
+- 🔭 I'm currently working on real estate market data analysis projects, statistics with Python, linear regression and statistical tests.
 - 🌱 I’m currently learning Python for Data Science, Power BI and Microsoft SQL Server 2022.
 - 📫 How to reach me: brunomiranda.data@gmail.com
 
