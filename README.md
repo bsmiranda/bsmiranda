@@ -9,8 +9,8 @@ I also have a strong interest in healthcare, business and financial markets and 
 
 At the moment I'm looking for my first opportunity in a company to work with Data Science. 🙂
 
-- 🔭 🔭 I currently work on data analysis projects in Python taking Alura courses, introducing and practicing various data science concepts.
-- 🌱 I’m currently learning Python for Data Science.
+- 🔭 I currently work on EBAC Data Science. A complete Data Science course with several real cases from the market.
+- 🌱 I’m currently learning Python for Data Science, SQL, Power BI, Statistics for Data Science.
 - 📫 How to reach me: brunomiranda.data@gmail.com
 
 <!--
