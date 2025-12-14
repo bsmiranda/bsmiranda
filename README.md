@@ -1,13 +1,32 @@
-# Hi, Bruno Miranda here! 👋
+# Hi, I'm Bruno Miranda👋
 
-I have a strong interest in Data Science, Artificial Intelligence and Business.
-Currently I have been dedicating myself to learning these technologies in order to make my contribution in this field.
+I'm an Account Executive with a strong interest in **Python for Data Analysis**, focused on applying data-driven insights to **Sales Analytics, Sales Operations, and Revenue Operations (RevOps)**.
 
-I would like to be able to make my contribution acting as a computer scientist in the field of education, providing quality and accessible education through technology.
+## 🚀 What I'm working on
+- Building a solid foundation in **Python** for data analysis  
+- Applying Python to real-world sales and revenue problems  
+- Developing analytical skills to support better decision-making in Sales and RevOps teams  
 
-I also have a strong interest in healthcare, business and financial markets and I believe that technology can help boost these very important sectors of the economy.
+## 🧠 Areas of Interest
+- Sales Analytics  
+- Sales Operations (Sales Ops)  
+- Revenue Operations (RevOps)  
+- Data-Driven Decision Making  
+- Python for Business & Analytics  
 
-At the moment I'm looking for my first opportunity in a company to work with Data Science. 🙂
+## 🛠️ Tools & Skills
+- Python (Data Analysis fundamentals)  
+- SQL (learning & practicing)  
+- Sales Metrics & KPIs  
+- CRM & Revenue Processes  
+
+## 📈 Goal
+To combine **business, sales, and data** to help companies grow more efficiently through better analytics and operational excellence.
+
+---
+
+*This repository documents my learning journey in Python and its application to Sales Analytics and RevOps.*
+
 
 - 🔭 I currently work on EBAC Data Science. A complete Data Science course with several real cases from the market.
 - 🌱 I’m currently learning Python for Data Science, SQL, Power BI, Statistics for Data Science.
