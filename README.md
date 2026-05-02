@@ -1,48 +1,80 @@
-# Hi, I'm Bruno Miranda👋
+# 👋 Hi, I'm Bruno Miranda
 
-I'm an Account Executive with a strong interest in **Python for Data Analysis**, focused on applying data-driven insights to **Sales Analytics, Sales Operations, and Revenue Operations (RevOps)**.
+Data Science | RevOps | Sales Analytics | Fintech  
 
-## What I'm working on
-- Building a solid foundation in **Python** for data analysis  
-- Applying Python to real-world sales and revenue problems  
-- Developing analytical skills to support better decision-making in Sales and RevOps teams  
+I build data-driven solutions focused on **revenue growth, sales performance, and financial analytics**.
 
-## Areas of Interest
-- Sales Analytics  
-- Sales Operations (Sales Ops)  
-- Revenue Operations (RevOps)  
-- Data-Driven Decision Making  
-- Python for Business & Analytics  
+## What I Do
 
-## Tools & Skills
-- Python (Data Analysis fundamentals)  
-- SQL (learning & practicing)  
-- Sales Metrics & KPIs  
-- CRM & Revenue Processes  
+I turn data into **business impact**, especially in:
 
-## Goal
-To combine **business, sales, and data** to help companies grow more efficiently through better analytics and operational excellence.
+- 📊 Sales Analytics (funnel, pipeline, conversion)
+- 💰 Revenue Operations (ARR, CAC, LTV, forecasting)
+- 🏦 Fintech Analytics (risk, behavior, fraud basics)
 
----
+My focus is connecting **data insights to revenue decisions**.
 
-*This repository documents my learning journey in Python and its application to Sales Analytics and RevOps.*
+## Core Expertise
+
+### Revenue & Sales Analytics
+- Funnel analysis (MQL → SQL → Closed Won)
+- Pipeline health & sales velocity
+- Conversion rate optimization
+- Revenue forecasting
+
+### RevOps Thinking
+- End-to-end funnel visibility
+- KPI design across Marketing, Sales & Customer Success
+- Process optimization using data
+- Identifying bottlenecks in revenue generation
+
+### Fintech Focus
+- Customer behavior analysis
+- Credit risk fundamentals
+- Fraud detection basics
+- Data-driven financial insights
+
+## Tech Stack
+
+- Python (pandas, numpy)
+- SQL
+- Data visualization (matplotlib)
+- Machine Learning (scikit-learn)
+- Git & GitHub
+
+## How I Think
+
+I don’t just analyze data — I focus on:
+
+- What is impacting revenue?
+- Where are we losing money?
+- What actions should the business take?
 
 
-- 🔭 I currently work on EBAC Data Science. A complete Data Science course with several real cases from the market.
-- 🌱 I’m currently learning Python for Data Science, SQL, Power BI, Statistics for Data Science.
-- 📫 How to reach me: brunomiranda.data@gmail.com
+## Current Focus
 
-<!--
-**bsmiranda/bsmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building real-world analytics projects in:
 
-Here are some ideas to get you started:
+- Sales & pipeline optimization
+- Churn & retention analysis
+- Revenue forecasting
+- Lead scoring
 
-- 🔭 I’m currently working on Financial Market data analysis projects.
-- 🌱 I’m currently learning Python for Data Science, Power BI and Microsoft SQL Server 2022.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: brunomiranda.data@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+Building data solutions that improve:
+
+- Revenue predictability
+- Sales efficiency
+- Customer retention
+
+## Let's Connect
+
+If you're working on:
+
+- Data Science
+- RevOps
+- Sales Analytics
+- Fintech
+
+Let’s connect 🚀
